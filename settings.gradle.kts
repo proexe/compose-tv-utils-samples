@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Compose TV Utils"
+rootProject.name = "Compose TV Utils Samples"
 include(":app")
